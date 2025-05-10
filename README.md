@@ -27,3 +27,6 @@ Run the script to start the live face recognition system:
 python live_face_recognition.py
 ```
 
+
+<img width="304" alt="match" src="https://github.com/user-attachments/assets/7f34ceaa-37f7-4759-9878-77664cf6fa2c" />
+
